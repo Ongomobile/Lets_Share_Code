@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Overlay = styled.div`
   position: fixed;
@@ -14,15 +14,15 @@ export const Overlay = styled.div`
   z-index: 999;
   cursor: pointer;
 `;
-
+// Cutomization props
 export const Content = styled.div`
-  margin: ${(props) => props.setMargin || '15% auto'};
-  background-color: ${(props) => props.setBgColor || 'white'};
-  border-radius: ${(props) => props.setBorderRadius || '0.25rem'};
-  padding: ${(props) => props.setPadding || '2rem'};
-  position: ${(props) => props.setPosition || 'relative'};
-  height: ${(props) => props.setHeight || '50vh'};
-  width: ${(props) => props.setWidth || '50vw'};
+  margin: ${(props) => props.setMargin || "15% auto"};
+  background-color: ${(props) => props.setBgColor || "white"};
+  border-radius: ${(props) => props.setBorderRadius || "0.25rem"};
+  padding: ${(props) => props.setPadding || "2rem"};
+  position: ${(props) => props.setPosition || "relative"};
+  height: ${(props) => props.setHeight || "50vh"};
+  width: ${(props) => props.setWidth || "50vw"};
 `;
 
 //Optional

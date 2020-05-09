@@ -1,9 +1,26 @@
-import React from 'react';
-import { Overlay, Content } from './modal-styles';
+import React from "react";
+import { Overlay, Content } from "./modal-styles";
 
-// To add a close button pass down a button and method
-// otherwise just use a button with method in your content
-// See modal-styles Content for customizations
+//Example way to handle toggling the modal
+// import React, {useState} from "react";
+// const [isOpen, setIsOpen] = useState(false);
+
+// const handleClose = () => {
+//   setIsOpen(false);
+// };
+
+// const Example = () => {
+//   return (
+//     <div>
+//       {isOpen && (
+//         <Modal>
+//           <YourComponent close={handleClose} />
+//         </Modal>
+//       )}
+//       <button onClick{() => setIsOpen(true)}>Open Modal</button>
+//     </div>
+//   );
+// };
 
 const Modal = (props) => {
   return (

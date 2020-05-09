@@ -6,7 +6,6 @@ This repository is to encourage people to collaborate, learn and share code.
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)

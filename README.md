@@ -35,7 +35,7 @@ While we can add technologies as we go along lets start with these
 
 Since this is all about contributing to open source. What you need to do to contribute is to fork the repository then start your own branch on your local machine. Then when you want to contribute something to the repository put in a pull request. The administrators will review and merge your pull request into the master branch. Just try to keep things on topic and consistent and please no self promotion.
 
-Note the React_Styled_Components/Contributed_Components folder is where to put components you made or refactored yourself.
+Note the Contributed_Components folder is where to put components you made or refactored yourself.
 
 
 [Back To The Top](#Lets_Share_Code)

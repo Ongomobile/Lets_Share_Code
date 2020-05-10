@@ -19,11 +19,10 @@ This Repository is a place to share code and to help each other learn more. We a
 #### Technologies
 
 While we can add technologies as we go along lets start with these
-
+- Styled Components
 - CSS
 - Javascript
 - React
-- Styled Components
 - Contributing To Open Source
 
 
@@ -32,7 +31,8 @@ While we can add technologies as we go along lets start with these
 
 Since this is all about contributing to open source. What you need to do to contribute is to fork the repository then start your own branch on your local machine. Then when you want to contribute something to the repository put in a pull request. The administrators will review and merge your pull request into the master branch. Just try to keep things on topic and consistent.
 
-Note the Contributed_Components folder is where to put components you made or refactored yourself.
+Note the React_Styled_Components/Contributed_Components 
+folder is where to put your styled components you made or refactored yourself. If you used someones elses for inspiration please give credit in the comments
 
 
 [Back To The Top](#Lets_Share_Code)
@@ -43,6 +43,7 @@ Note the Contributed_Components folder is where to put components you made or re
 Here are some resources on how to contribute to open source.
 And also how to ask good questions and sharing codes samples
 when you need help.
+
 [Styled Components Docs](https://styled-components.com/)
 
 [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)

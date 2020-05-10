@@ -20,14 +20,11 @@ This Repository is a place to share code and to help each other learn more. We a
 
 While we can add technologies as we go along lets start with these
 
-- HTML
 - CSS
 - Javascript
 - React
 - Styled Components
 - Contributing To Open Source
-- Markdown
-
 
 
 ---
@@ -46,6 +43,7 @@ Note the Contributed_Components folder is where to put components you made or re
 Here are some resources on how to contribute to open source.
 And also how to ask good questions and sharing codes samples
 when you need help.
+[Styled Components Docs](https://styled-components.com/)
 
 [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
 

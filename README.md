@@ -14,7 +14,7 @@ This repository is to encourage people to collaborate, learn and share code.
 ---
 
 ## Description
-This Repository is a place to share code and to help each other learn more. We all have lots of skills we can offer. Instead of always taking from open source let give back. Hopefully this repository will evolve in to a place to do so. This is not a place for self promotion.
+This Repository is a place to share code and to help each other learn more. We all have lots of skills we can offer. Instead of always taking from open source let give back. Hopefully this repository will evolve in to a place to do so.
 
 #### Technologies
 
@@ -30,7 +30,7 @@ While we can add technologies as we go along lets start with these
 ---
 ## How To Use
 
-Since this is all about contributing to open source. What you need to do to contribute is to fork the repository then start your own branch on your local machine. Then when you want to contribute something to the repository put in a pull request. The administrators will review and merge your pull request into the master branch. Just try to keep things on topic and consistent and please no self promotion.
+Since this is all about contributing to open source. What you need to do to contribute is to fork the repository then start your own branch on your local machine. Then when you want to contribute something to the repository put in a pull request. The administrators will review and merge your pull request into the master branch. Just try to keep things on topic and consistent.
 
 Note the Contributed_Components folder is where to put components you made or refactored yourself.
 

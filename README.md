@@ -1,7 +1,7 @@
 # Lets_Share_Code
 This repository is to encourage people to collaborate, learn and share code.
 
-![Project Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fa-5-minute-intro-to-styled-components-41f40eb7cd55%2F&psig=AOvVaw1F8GtCaRvobzyIqbe9DTga&ust=1675219728941000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPimlPrl8PwCFQAAAAAdAAAAABAD)
+![Project Image](https://cdn-media-1.freecodecamp.org/images/1*DIFji4ZmJa4_H3EpbG2XAw.png)
 
 ---
 
